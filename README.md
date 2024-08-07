@@ -1,9 +1,12 @@
-# Welcome to your Expo app 👋
+# User Information App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 
 ## Brief Overview
+
+
+## Detailed Overview 
 
 _layout.tsx :- This component uses the @react-navigation/stack library to create a stack navigator. The stack navigator is then used to define a screen named 'Index', which renders the App component.
 
