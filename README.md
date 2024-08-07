@@ -4,6 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 
 ## Brief Overview
+![User Information App](https://github.com/user-attachments/assets/64964773-af44-40d4-bf40-55348f7fa7c2)
 
 
 ## Detailed Overview 
