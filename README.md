@@ -17,6 +17,8 @@ index.tsx :- The component named App. This component fetches random user data fr
       
       Previous Button :- This button display the previous user information.
 
+styles.tsx :- This component contains all the necessary styles for the App component.
+
 ## File Structure
 User-Information-App --> app --> tabs --> index.tsx and _layout.tsx
 
