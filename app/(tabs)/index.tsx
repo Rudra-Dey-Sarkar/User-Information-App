@@ -1,7 +1,7 @@
 import { View, Text, TouchableOpacity, Button, Image, StyleSheet } from 'react-native';
 import React, { useEffect, useState } from 'react';
 import styles from './styles';
-//The main App component that fetches and displays random user data
+//The main App component that fetches and displays random user data.
 const App = () => {
     const [Users, setUsers] = useState([]); // This hook is use for storing all users data
     const [Index, setIndex] = useState(0); // This hook is use as a index for the array of object (it stores user datas) stored in the user hook  
