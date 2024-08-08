@@ -20,7 +20,7 @@ index.tsx :- The component named App. This component fetches random user data fr
 styles.tsx :- This component contains all the necessary styles for the App component.
 
 ## File Structure
-User-Information-App --> app --> tabs --> index.tsx and _layout.tsx
+User-Information-App --> app --> tabs --> index.tsx and _layout.tsx and styles.tsx
 
 
 ## Get started
